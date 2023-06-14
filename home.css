@@ -1,0 +1,28 @@
+h1 {
+  color: brown;
+}
+body {
+  background-color: rgb(211, 202, 192);
+  border-style: solid;
+  border-color: black;
+  font-style: oblique;
+}
+.nav {
+  /* display: inline; */
+  color: #163966;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  border-style: solid;
+}
+.table{
+  
+  text-align: center;
+}
+/* video{
+  width: 500px;
+  height:300px;
+  margin-left:25cm;
+  justify-content: flex-end;
+}
+
