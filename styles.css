@@ -1,11 +1,13 @@
-h1 {
-  color: brown;
+
+.titre{
+  color: rgb(152, 63, 87);
+  
 }
 body {
-  background-color: rgb(211, 202, 192);
+  background-color: rgb(172, 170, 167);
   border-style: solid;
   border-color: black;
-  font-style: oblique;
+  font-family: 'Roboto', sans-serif;
 }
 .nav {
   /* display: inline; */
